@@ -1,0 +1,25 @@
+body {
+    background-color: #f3f5f7:
+}
+
+h1 {
+    text-align: center;
+    padding: 40px 0 100px;
+}
+
+.col {
+    text-align: center;
+}
+
+img {
+    width: 187px;
+    height: 145px;
+}
+
+h4 {
+    padding: 40px 0 10px;
+}
+
+.last {
+    padding: 40px 40px 10px;
+}
